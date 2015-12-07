@@ -1,0 +1,15 @@
+body {
+  margin-top: 20px;
+  background-color: #dcdcdc;
+}
+
+.content-margin-top {
+  margin-top: 80px;
+  background-color:#b0c4de;
+}
+
+.strong-title {
+  font-size: 30px;
+  font-weight: 800;
+  color:black;
+}
